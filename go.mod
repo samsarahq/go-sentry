@@ -1,4 +1,4 @@
-module github.com/jianyuan/go-sentry
+module github.com/samsarahq/go-sentry
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect

@@ -3,7 +3,7 @@ Go library for accessing the [Sentry Web API](https://docs.sentry.io/api/).
 
 ## Install
 ```sh
-go get -u github.com/jianyuan/go-sentry/sentry
+go get -u github.com/samsarahq/go-sentry/sentry
 ```
 
 ## Documentation
